@@ -1,0 +1,17 @@
+\\wsl$
+
+
+\\wsl$\docker-desktop-data\version-pack-data\community\docker\containers
+
+copy \\wsl.localhost\docker-desktop-data\version-pack-data\community\docker\containers\1c94f7b2da746578926a9cc94ad5c3a8cf923d08cc24b269f42c3102d200ccd7 c:\dockerrun
+
+
+https://stackoverflow.com/questions/56518032/windows-10-and-docker-container-logs-docker-logging-driver#:~:text=Your%20docker%20log%20file%20path,it%20in%20the%20command%20below.&text=We%20aren't%20technically%20going,the%20file%20system%20from%20there.&text=Execute%20the%20find%20command%20there%2C%20and%20you%20should%20find%20the%20logs.
+
+
+
+copy \\wsl$\docker-desktop-data\version-pack-data\community\ H:\temp
+
+
+
+
